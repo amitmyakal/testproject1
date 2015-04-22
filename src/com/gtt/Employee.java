@@ -17,5 +17,9 @@ public class Employee {
 		this.employeeName = employeeName;
 	}
 	
+	public void addEmployee(){
+		
+		System.out.println("Hello Emp");
+	}
 	
 }
