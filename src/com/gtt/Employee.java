@@ -25,4 +25,8 @@ public void updateEmployee(){
 		System.out.println("Update Emp");
 		System.out.println("Update Emp");
 	}
+public void deleteEmployee(){
+	System.out.println("Update Emp");
+	System.out.println("Update Emp");
+}
 }
