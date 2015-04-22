@@ -21,5 +21,8 @@ public class Employee {
 		
 		System.out.println("Hello Emp");
 	}
-	
+public void updateEmployee(){
+		
+		System.out.println("Update Emp");
+	}
 }
